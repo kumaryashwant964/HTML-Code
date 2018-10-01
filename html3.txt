@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>HTML DIV TAG</title>
+    <style>
+        body{
+            font-family: Arial,sans-serif;
+        }
+        div{
+            padding: 10px;
+            margin: 20px;
+            border-radius: 20px;
+            box-shadow: 0 0 15px black;
+        }
+    </style>
+</head>
+<body>
+<div style="background-color: lightgreen">
+    <h2>
+        <span style="background-color: orange">The</span>
+        <span style="background-color: white">Great</span>
+        <span style="background-color: green">India</spanstyle>
+    </h2>
+    <p>Lorem <span style="background-color: red">ipsum </span>dolor sit amet, consectetur adipisicing elit. Architecto commodi cupiditate dicta eaque earum eos expedita nisi pariatur quia sapiente! A, cumque, distinctio dolorum enim error eveniet fuga, hic maxime molestias odit praesentium rem repudiandae saepe similique voluptatem. Ipsam, voluptatem.</p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad autem quibusdam ratione sit ut vero. Aliquam asperiores aspernatur culpa est fugiat labore maxime odio rerum sit unde velit, vero vitae voluptates? Ab, adipisci, aperiam commodi deserunt esse et facere fuga fugiat illum, in labore mollitia nulla omnis quam sequi sunt.</p>
+    </div>
+<div style="background-color: lightblue">
+    <h2>CSS</h2>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque beatae consequuntur culpa dolores eum magni omnis optio quos rerum sit? Illo libero rem tempora totam. Alias beatae, dignissimos doloribus, ea eum hic illo ipsam officiis praesentium quas vitae voluptate! Odio?</p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid impedit molestiae nulla officia saepe? Consequatur delectus dolor earum facilis incidunt itaque laudantium magni minus nemo nisi nulla officiis quam quos rem, repellendus saepe, sint sunt voluptatem! Beatae consequatur debitis error facere incidunt ipsam laboriosam officiis omnis optio quaerat, sed voluptates!</p>
+
+</div>
+<div style="background-color: orange">
+    <h2>JAVAScript</h2>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut cumque dolorem dolorum error eveniet facere fugiat hic itaque libero modi molestiae natus non officia officiis pariatur perferendis placeat possimus quaerat quidem recusandae, repellat repellendus reprehenderit repudiandae soluta vero voluptates, voluptatum.</p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque molestiae mollitia, placeat temporibus tenetur vel veniam? Consequatur eveniet, expedita impedit neque pariatur qui temporibus veniam voluptatibus! Aperiam commodi fuga illum odit repellat repellendus similique. A accusamus, alias atque aut cum debitis, deleniti dolor, ducimus error excepturi iusto maiores obcaecati voluptatum!</p>
+</div>
+
+
+</body>
+</html>

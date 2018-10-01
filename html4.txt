@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>HTML SPAN TAG</title>
+    <style>
+        div{
+            padding: 10px;
+            margin: 20px;
+            border-radius: 20px;
+            font-family: "Comic Sans MS",sans-serif;
+            box-shadow: 0 0 15px orange;
+        }
+    </style>
+</head>
+<body>
+
+    <h2>Span Tag Usage</h2>
+    <div style="background-color: lightgreen">
+        <h2>
+            <span style="background-color: orangered">The</span>
+            <span style="background-color: white">Great</span>
+            <span style="background-color: forestgreen">India</span>
+        </h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium alias autem delectus doloremque esse inventore minima nulla quia sit. Hic nostrum officiis porro similique? Accusantium animi explicabo hic odio tempora. Aut dicta ipsum neque nostrum odit perspiciatis ratione reiciendis vitae!</p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae cupiditate delectus eaque illum ipsa ipsam libero veniam voluptates! Accusantium aspernatur aut autem deleniti dolorem dolorum, earum et exercitationem, ipsa modi neque nesciunt officia quis quisquam suscipit veritatis voluptas! A accusantium adipisci error illum ipsam libero odit officiis quidem quos vel.</p>
+    </div>
+
+</body>
+</html>

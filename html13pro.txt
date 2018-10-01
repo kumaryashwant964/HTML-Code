@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>The Great India</title>
+    <link rel="icon" href="img/india_flag.gif">
+</head>
+<style>
+    body{
+        font-family: "Comic Sans MS",sans-serif;
+        background-color: whitesmoke;
+        margin: 0px;
+    }
+    h1,p,td{
+        text-align: center;
+    }
+    h2{
+        background: linear-gradient(orangered,white,forestgreen);
+        text-align: center;
+        padding: 10px;
+    }
+    img,ifreme{
+        border-radius: 15px;
+        box-shadow: 0 0 15px black;
+    }
+</style>
+<br>
+
+<!-- The Great India Website -->
+<!--main Navigation -->
+<div align="Center">
+    <a href="#Home">Home</a>
+    <a href="#before-after">Before After</a>
+    <a href="#freedom-fighter">Freedom Fighter</a>
+    <a href="#political-leaders">Plitical Leaders</a>
+    <a href="#business-leaders">Business Leaders</a>
+    <a href="#sports-leaders">Sports Leaders</a>
+</div>
+
+<-- Home Section -->
+<div  id="Home">
+    <h1>
+    <span style="color: orangered">The</span>
+    <span style="color: lightblue">Great</span>
+    <span style="color: forestgreen">India</span>
+    </h1>
+    <h2>Our India</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor excepturi labore officiis quisquam quod sunt totam veniam. Ab, cum debitis error incidunt maxime repellat tempora voluptate? Dolorem doloremque expedita, ipsa natus nobis pariatur porro quae quasi, rem sed suscipit, voluptate.</p>
+        <table width="100%">
+            <tr>
+                <td>
+                    <img src="img/india_flag.gif" width="500" height="300">
+                    </td>
+                <td>
+                    <img src="img/india-map.jpg" width="500" height="300">
+                </td>
+            </tr>
+            <tr>
+                <td>India Flag</td>
+                <td>India Map</td>
+            </tr>
+        </table>
+</div>
+
+<-- India before and After -->
+<div id="before-after">
+    <h2>India Before & After</h2>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias aliquam doloribus est expedita ipsa neque odio placeat praesentium provident, quidem saepe sed, sunt unde! Asperiores distinctio eligendi eos excepturi impedit ipsam libero molestiae, nobis numquam officiis optio perspiciatis quam quia?</p>
+    <table width="100%">
+        <tr>
+            <td>
+                <iframe width="500" height="300" src="https://www.youtube.com/embed/L9rnkrg3toQ?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+            </td>
+            <td>
+                <iframe width="500" height="300" src="https://www.youtube.com/embed/51QEjz8y1O8?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+            </td>
+        </tr>
+        <tr>
+            <td>India Before Independence</td>
+            <td>India After Independence</td>
+        </tr>
+    </table>
+</div>
+
+<-- Indian Freedom Fighter -->
+<div id="freedom-fighter">
+<h2>Indian Freedom Fighter</h2>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias architecto excepturi nesciunt odio quam quis ut! Dolorum eligendi eos nostrum similique tenetur veniam. Ad architecto beatae delectus dolorem dolorum esse eum illum iure officia officiis quas recusandae, sint tempore voluptate.</p>
+    <table width="100%">
+        <tr>
+            <td>
+                <img src="img/mahatma.jpg" width="300" height="=200">
+            </td>
+            <td>
+                <img src="img/Bhagat.jpg" width="300" height="=200">
+            </td>
+            <td>
+                <img src="img/alluri.jpg" width="300" height="=200">
+            </td>
+            <td>
+                <img src="img/subhash_chandra_bose.jpg" width="300" height="=200">
+            </td>
+        </tr>
+        <tr>
+            <td>Mathma Gandhi</td>
+            <td>Bhagat singh</td>
+            <td>Alluri Sita Ramraju</td>
+            <td>Subhash Chandra Bose</td>
+        </tr>
+    </table>
+</div>
+
+<-- Indian Political Leaders -->
+<div id="political-leaders">
+    <h2>Indian Political Liders</h2>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad aut beatae commodi eos esse labore natus porro quas tempore voluptatum? Excepturi incidunt labore libero molestias optio perspiciatis repellat unde? Aliquam dolore dolores iste molestias officiis sequi sit totam voluptatum? Explicabo.</p>
+    <table width="100%">
+        <tr>
+            <td>
+                <img src="img/narendra_modi.jpg" width="300" height="200">
+            </td>
+            <td>
+                <img src="img/vajpai.jpg" width="300" height="200">
+            </td>
+            <td>
+                <img src="img/lal_bahadur.jpg" width="300" height="200">
+            </td>
+            <td>
+                <img src="img/abdul_kalam.jpg" width="300" height="200">
+            </td>
+        </tr>
+        <tr>
+            <td>Narendra Modi</td>
+            <td>Atal Bihari Vajpai</td>
+            <td>Lal Bahadur Shastri</td>
+            <td>APJ Abdul kalam</td>
+        </tr>
+    </table>
+</div>
+
+<-- Indian business leaders -->
+<div id="business-leaders">
+    <h2>Indian Business Leaders</h2>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A aperiam asperiores autem consequuntur corporis cumque distinctio dolore dolorem earum error excepturi expedita facilis fugit, id ipsum laborum magnam minima nisi non odio placeat quia quis quo reiciendis, rem tenetur vitae.</p>
+    <table width="100%">
+        <tr>
+            <td>
+                <img src="img/ratan_tata.jpg" width="300" height="200">
+            </td>
+            <td>
+                <img src="img/dhirubhai.jpg" width="300" height="200">
+            </td>
+            <td>
+                <img src="img/azim_Prem_ji.jpg" width="300" height="200">
+            </td>
+            <td>
+                <img src="img/narayana_murthy.jpg" width="300" height="200">
+            </td>
+        </tr>
+        <tr>
+            <td>Ratan Tata</td>
+            <td>Dhirubhai Ambani</td>
+            <td>Azim Prem ji</td>
+            <td>Narayana Murthy</td>
+        </tr>
+    </table>
+</div>
+
+<-- indian sports leadera -->
+<div id="sports-leaders">
+    <h2>Indian Sports Leaders</h2>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci ipsa nostrum obcaecati quod, tempora vel voluptatibus? Accusantium assumenda, atque consequatur deleniti dolore earum esse fugiat ipsam iusto laboriosam odio quae sunt, vitae? Adipisci aliquam animi aspernatur iste nisi rem veniam.</p>
+    <table width="100%">
+        <tr>
+            <td>
+                <img src="img/sachin.jpg" width="300" height="200">
+            </td>
+            <td>
+                <img src="img/saina.jpg" width="300" height="200">
+            </td>
+            <td>
+                <img src="img/pv_Sindhu.jpg" width="300" height="200">
+            </td>
+            <td>
+                <img src="img/gopichand.jpg" width="300" height="200">
+            </td>
+        </tr>
+        <tr>
+            <td>Sachin Tendulkar</td>
+            <td>Saina Nehwal</td>
+            <td>PV Sindhu</td>
+            <td>GopiChand</td>
+        </tr>
+    </table>
+</div>
+
+<-- main footer -->
+<div id="main-footer">
+    <h2>copyright &copy; 2018 ,The Great India</h2>
+    <p>All Rights Reserved</p>
+    <p>Develope & Manage  by YASH</p>
+</div>
+
+<!--main Navigation -->
+<div align="Center">
+    <a href="#Home">Home</a>
+    <a href="#before-after">Before After</a>
+    <a href="#freedom-fighter">Freedom Fighter</a>
+    <a href="#political-leaders">Plitical Leaders</a>
+    <a href="#business-leaders">Business Leaders</a>
+    <a href="#sports-leaders">Sports Leaders</a>
+</div>
+
+<br></br>
+
+</body>
+</html>

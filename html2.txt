@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>HTML Paragraphs</title>
+</head>
+<body>
+
+ <!-- HTML Paragraphs -->
+ <h2>HTML</h2>
+ <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto aspernatur at, consequatur delectus dignissimos, dolor dolorem ea enim expedita fugiat minima nam nostrum odit reprehenderit, tempore. Asperiores atque corporis id ipsa magnam minima, praesentium ut vel veniam voluptate. Cumque, ducimus?</p>
+ <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos doloribus, dolorum earum esse illo libero nisi veritatis. Aut consequatur consequuntur cumque delectus dolor dolorem dolores ea excepturi, impedit inventore molestiae numquam odio quibusdam recusandae tempora? Harum nesciunt quibusdam quisquam sapiente.</p>
+ <h2>CSS</h2>
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias aperiam dolor eius et facilis hic, impedit porro! Ab adipisci aliquid distinctio eius et eveniet fugit impedit ipsa minima minus natus, nostrum quasi, quibusdam quisquam repellat reprehenderit sapiente sint tempora vero.</p>
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda consequuntur culpa doloremque eaque eum expedita fugit impedit, inventore libero minima mollitia necessitatibus nobis nulla perspiciatis placeat provident quas similique vero. A adipisci deleniti ea obcaecati perferendis quaerat, recusandae repellendus saepe?</p>
+   <h2>JAVA</h2>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores aut enim eos, illum nam reiciendis totam? Animi cupiditate deserunt distinctio dolor doloribus, eius facere iusto magni nulla odit quibusdam, quos tempora tempore. Accusamus earum esse perspiciatis sed vitae! Corporis, delectus.</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque, dicta dignissimos dolorum earum eligendi eveniet expedita hic id inventore laborum laudantium maxime minus nesciunt nulla odio odit porro possimus rem rerum sint totam velit vitae! Delectus exercitationem iusto rerum vero?</p>
+
+</body>
+</html>

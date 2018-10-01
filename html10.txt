@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>HTML Anchor Tag</title>
+    <style>
+        body{
+            font-family: Arial,sans-serif;
+        }
+    </style>
+</head>
+<body>
+    <h1 id="home">Home Page</h1>
+
+    <!-- Simple Links -->4
+    <p>Simple Links</p>
+    <a href="https://www.google.co.in">Google</a>
+
+    <!-- Local Links -->
+    <p>Local Links</p>
+    <a href="09_HTML_Tables.html">Tables</a>
+    <a href="08_HTML_Images.html">Image</a>
+
+    <!-- External Links -->
+    <p>External Link</p>
+    <a href="https://www.facebook.com">Facebook</a>
+
+    <!-- Links with target -->
+    <p>Links with target</p>
+    <a href="https://www.amazon.in/" target="_blank">Amazon</a>
+    <!-- Images as Links -->
+    <p>Images as Links</p>
+    <a href="https://youtub.com/" target="-_blank">
+        <img src="img/youtube.jpg" width="400" height="=150">
+    </a>
+
+    <!-- Bookmarks with Ids -->
+    <p>Bookmarks with Ids</p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus autem, exercitationem harum ipsam necessitatibus nobis pariatur perferendis ratione sunt veniam? Animi eveniet itaque minus obcaecati officia possimus reiciendis tempore velit. Ab aliquam amet animi dicta eius eum iste laudantium natus quia. Ab ad adipisci architecto autem commodi cumque cupiditate, deleniti deserunt dolor ducimus ea est fugit inventore ipsam molestiae molestias natus nesciunt optio placeat quis quisquam rem, sed temporibus ullam voluptatibus. Animi autem deserunt distinctio fugit ipsa libero, mollitia nisi nostrum numquam quis rerum saepe similique! Aut laborum magni natus, non ratione reiciendis soluta! Adipisci aut eaque esse neque sunt!</p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dicta dolore, ex expedita ipsam laboriosam laborum molestiae quasi sit tempora? Accusantium consectetur cum distinctio ducimus laboriosam libero magni nam natus nesciunt nobis odio, possimus provident quia quod soluta, tempore tenetur totam unde voluptas voluptatem! Ad consequuntur dignissimos eaque eius, enim impedit in ipsam, magnam maiores nisi quaerat quod quos ratione rerum sed temporibus vel. Dolores eius facilis nesciunt, odio perspiciatis quod ullam veritatis! Aut dolore impedit nisi optio quia recusandae reiciendis repellendus rerum. Accusantium amet assumenda autem cumque deleniti deserunt ducimus minima modi officiis quam. Aspernatur beatae dolores fugit maiores temporibus.</p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto deleniti dolorem dolores dolorum, ducimus expedita illum natus nesciunt non nostrum officia quas, quis quos repudiandae totam veritatis vitae voluptates? Ad architecto beatae consequatur, dolor dolorum illo, iure maxime omnis placeat quas qui quia repellat repellendus sequi similique vitae voluptates? Adipisci earum nihil non odit veritatis. Aspernatur assumenda doloribus, est eveniet fuga fugiat illo laborum laudantium neque nihil odit quasi. Commodi, eaque facere iusto pariatur quidem recusandae suscipit. Commodi dolores est quas ratione totam! Ad, autem commodi ex expedita harum id magni nisi odio quaerat rem repellat repudiandae saepe suscipit vel!</p>
+
+    <a href="#home">Go to Home</a>
+
+
+</body>
+</html>

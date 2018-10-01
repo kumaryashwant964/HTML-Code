@@ -1,0 +1,9 @@
+<!Doctype html>
+	<html>
+		<head>
+			<title>Welcome to HTML</title>
+		</head>
+		<body>
+		<h1>Good Morning HTML</h1>
+		</body>
+	</html>

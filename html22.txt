@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>HTML Details & Summary</title>
+    <style>
+        body{
+            font-family: "Comic Sans MS", sans-serif;
+        }
+        details{
+            background-image: url("img/forest.jpg");
+            padding: 15px;
+            color: white;
+            background-size: cover;
+            font-size: 20px;
+            border-radius: 50px;
+            box-shadow: 0 0 15px black;
+        }
+        summary{
+            outline: none;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- HTML Details & Summary Elements -->
+    <datalist>
+        <summary>Java Training</summary>
+        <div>
+            <h3>Java Training</h3>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias expedita non quam repellendus voluptatem! A asperiores, atque cumque delectus dicta earum expedita iusto labore magni odit praesentium, quae quod repellat, sed sit ullam vitae voluptas voluptatum. A ad, asperiores aut blanditiis commodi enim esse incidunt maxime porro reprehenderit! Beatae, voluptatum?</p>
+        </div>
+    </datalist>
+
+</body>
+</html>

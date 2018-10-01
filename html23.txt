@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>HTML Main Element</title>
+    <style>
+        body{
+            font-family: "Old English Text MT", sans-serif;
+            margin: 0;
+        }
+        main{
+            background: linear-gradient(to right,black,orangered,black);
+            color: white;
+            padding: 15px;
+            font-size: 20px;
+            text-align: center;
+            box-shadow: 0 0 15px black;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- HTML Main Element -->
+    <main>
+        <h2>UiBrains Technology</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus atque consectetur dolore ducimus earum fugit minima officiis. Architecto at atque, beatae blanditiis, dolorum eius error ex illum ipsa ipsam molestias quasi quia quisquam repudiandae sequi totam ullam vel voluptates voluptatibus?</p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci dolorum eligendi enim et explicabo nobis officiis quidem recusandae temporibus voluptates. Atque et itaque labore modi necessitatibus obcaecati praesentium quas quidem quos soluta! Beatae minus officiis quisquam reiciendis repellendus sapiente, veniam? Ab dignissimos dolor doloremque molestias necessitatibus perferendis recusandae vitae voluptatibus.</p>
+    </main>
+
+
+</body>
+</html>
